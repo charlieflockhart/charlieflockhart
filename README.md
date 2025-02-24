@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **React**
 
 ### 📫 How to reach me
-- Email **charlie.flockhart@yahoo.co.uk**
-- LinkedIn <a href="https://www.linkedin.com/in/charlie-flockhart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlie flockhart" height="30" width="40" /></a>
+- Email | **charlie.flockhart@yahoo.co.uk**
+- LinkedIn | [Charlie Flockhart](https://www.linkedin.com/in/charlieflockhart/)
 
 ## 💻 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
