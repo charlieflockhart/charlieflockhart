@@ -29,7 +29,8 @@
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 ## 💻 Cloud Platform:
-![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)  
 
 ## 💻 Software:
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
