@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
 
-## 💻 Cloud Platform:
+## 💻 Cloud Platforms:
 ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)  
 
