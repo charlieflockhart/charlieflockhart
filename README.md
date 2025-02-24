@@ -7,7 +7,7 @@
 - Email | **charlie.flockhart@yahoo.co.uk**
 - LinkedIn | [Charlie Flockhart](https://www.linkedin.com/in/charlie-flockhart/)
 
-## 💻 Languages:
+## 🌐 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -16,16 +16,16 @@
 ![C#](https://img.shields.io/badge/C%23-430098?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus) 
 
-## 💻 Frameworks:
+## 🖽 Frameworks:
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 
-## 💻 Tools:
+## ⚙️ Tools:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
 
-## 💻 Cloud Platforms:
+## ☁️ Cloud Platforms:
 ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary)  
 
