@@ -5,7 +5,7 @@
 
 ### 📫 How to reach me
 - Email | **charlie.flockhart@yahoo.co.uk**
-- LinkedIn | [Charlie Flockhart](https://www.linkedin.com/in/charlieflockhart/)
+- LinkedIn | [Charlie Flockhart](https://www.linkedin.com/in/charlie-flockhart/)
 
 ## 💻 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
