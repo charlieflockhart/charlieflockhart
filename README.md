@@ -41,8 +41,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlieflockhart&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200" style="display: inline-block; vertical-align: top;" />
 </div>
 
----
-![Visitor Count](https://komarev.com/ghpvc/?username=Charlieflockhart&color=blue)
-
 <!-- Shields (https://shields.io/badges) -->
 <!-- Icons (https://simpleicons.org/) -->
