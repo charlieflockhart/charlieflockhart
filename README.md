@@ -25,15 +25,16 @@
 
 ## 💻 Tools:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Git / Github](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 ## 💻 Cloud Platform:
-![Heroku](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
 
 ## 💻 Software:
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-![3DS Max](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-![Blender](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
+![3DS Max](https://img.shields.io/badge/3ds_max-000000?style=for-the-badge&logo=autodesk&logoColor=white) 
+![Blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Audition](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
