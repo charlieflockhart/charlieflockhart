@@ -35,7 +35,7 @@
 ![Blender](https://img.shields.io/badge/blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white) 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Charlieflockhart&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Charlieflockhart's GitHub stats" height="200" style="display: inline-block; vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlieflockhart&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200" style="display: inline-block; vertical-align: top;" />
