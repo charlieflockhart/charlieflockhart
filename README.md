@@ -39,7 +39,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Charlieflockhart&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
+
+<div style="display: flex; justify-content: space-between;">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charlieflockhart&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
