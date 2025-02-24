@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Charlie Flockhart</h1>
-<h3 align="center">A passionate Junior Full Stack Developer from Birmingham | England</h3>
+# Hi 👋, I'm Charlie Flockhart
+### A passionate Junior Full Stack Developer from Birmingham | England
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **charlie.flockhart@yahoo.co.uk**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/charlie flockhart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlie flockhart" height="30" width="40" /></a>
-</p>
+### 📫 How to reach me
+- Email **charlie.flockhart@yahoo.co.uk**
+- LinkedIn <a href="https://www.linkedin.com/in/charlie-flockhart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charlie flockhart" height="30" width="40" /></a>
 
 ## 💻 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
