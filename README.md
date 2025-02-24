@@ -42,7 +42,7 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Charlieflockhart&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=Charlieflockhart&color=blue)
 
 <!-- Shields (https://shields.io/badges) -->
 <!-- Icons (https://simpleicons.org/) -->
